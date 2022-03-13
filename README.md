@@ -1,16 +1,17 @@
 # Atomic_Landing_page
+
 ## HTML5
---semantic elements
---accessibility
---SEO
+-- semantic elements
+-- accessibility
+-- SEO
 
-##SCSS
---Animation
---clean code
+## SCSS
+-- Animation
+-- clean code
 
-##bootstrap 4
---responsive design
+## bootstrap 4
+-- responsive design
 
-##Pure javascript
+## Pure javascript
 --scrolling
 --interactive
